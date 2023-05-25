@@ -1,0 +1,8 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": ""
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true
+}
